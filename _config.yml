@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "NamNguyen"
+description              : "Collect to learn and Take note to memory."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,32 +104,20 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+title: "My Learning"
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name: "Nam Nguyen"
+  avatar: "/assets/images/NamNguyen.jpg"
+  bio: "while(time++) I++; <br>Collect to learn.<br> Take note to remember."
+  location: "TPHCM, VN"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LINKED"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/feed/"
+    - label: "UIT"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.uit.edu.vn"
 
 # Site Footer
 footer:
@@ -139,6 +127,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/namnh97"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -151,7 +140,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/namnh97/"
       # url:
+
 
 
 # Reading Files
@@ -232,6 +223,9 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
+
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -241,6 +235,8 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
+
 
 
 # Archives
@@ -259,17 +255,17 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+#https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -291,5 +287,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
-      related: true
+      #share: true
+      #related: true
