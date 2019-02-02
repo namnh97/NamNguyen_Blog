@@ -1,5 +1,6 @@
 ## ENVVIRONMENTAL IMPACTS OF LOGGING
 ### Words
+
 1. **Aquatic(adj):** living in the water.
 2. **Array(n):** a large number, a collection.
 3. **Defense(n):** protection.
@@ -22,9 +23,11 @@
 20. **Vegetation(n):** plants.
 
 ### Writing
+
 1. Deforestation caused by human activity is happening in many parts of the world. With serious **results for** the environment. What do you think can be done to solve the problem?
 
 ---
+
 * Deforestation is a serious problem, and **finding** a solution **to** it will not be simple. It involves a lot of different countries and many political and economic factors. However, **as individuals** we can each **make out** **contribution to** the solution. It volves being more responsible about our use of products that come from logging.
 * Logging companies fell trees so that we can have wood to make a lot of useful product: houses, bags, boxes, writing paper, furniture. We all these things in our daily lives and would not want to **give them up**. We can, however, **be less wasteful** in the way we use these things. Paper products. In particular, offer many opportunities for reusing, recycling, and reducing our use of them.
 * Many product can be reused. We tend to go shopping, carry our purchase home in a paper bag, and then throw the bag away. That means the bags is used only once, when it really has enough life in it to be used several times. We can take the bag with us on our next shopping trip or find other uses for it around the house. This is just one example of a paper product that can be used.
@@ -35,10 +38,12 @@
 ---
 
 ### Speaking
+
 1. What kind of natural environments do you enjoy spending time in?
 2. What do you think can be done to help solve the problems of environmental solution?
 
 ---
+
 * I don't get a lot of time so spend in nature, but when I do, I like being in the mountains. When you are in the mountains, you are really far away from everything. From cities, I mean and civilization. You can really feel like you are in nature. Also, Mountains are different from other environments. They are higher up, so you see different kind of vegetation, and if you go up hight enough, there are not even any trees, just plants low down to the ground. I really enjoy **hiking**. That is the main reason I like mountains. I like to hike to the top of a mountain, breathe the fresh, cool air, and enjoy the view.
 * There are a lot of different causes of environment pollution, so there are a lot of different solutions. One of my favorites in transportation. Cars really pollute the air a lot. They really have an impact on the environment. **Think about how it would be if no one drove cars.** The air would be clean! Of course, that will not happen. However, **people would drive less if better public transporation was available**. If we had good bus and train and subway systems. We could need fewer cars. I think that would be a really important part of any solution
 
