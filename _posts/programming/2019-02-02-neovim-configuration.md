@@ -1,6 +1,6 @@
 ---
-title: "NEOVIM CONFIGURATION"
-categories: Programming
+title: "Neovim Configuration"
+categories: [Programming, Tools]
 excerpt: "Configure C++ for NEOVIM."
 ---
 

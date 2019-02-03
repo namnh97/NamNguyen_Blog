@@ -1,6 +1,6 @@
 ---
 title: "Barron's Essential Words for IELTS."
-categories: English
+categories: [English, Vocabulary]
 excerpt: "Rewrite words, writing, speaking tasks to improve Vocabulary, Writing, Speaking skill."
 toc: true
 ---

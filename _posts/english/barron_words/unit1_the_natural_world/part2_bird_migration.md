@@ -36,9 +36,10 @@ The chart shows a list of some of the species of birds that can be seen in woodc
 
 ### READING
 
-* Many people enjoy observing birds because they find them fascinating. Why do you think people are fascinated by birds?
-* Are you fascinated by birds? why or why not?
-* What animals are fascinating to you?
+1. Many people enjoy observing birds because they find them fascinating. Why do you think people are fascinated by birds?
+2. Are you fascinated by birds? why or why not?
+3. What animals are fascinating to you?
+
 ___
 
 * I think people are fascinated by birds because they seem so free. They can fly. So it seems like they can go anywhere. People can not fly and are stuck on the ground. So birds are very different from us in that way. Some birds are also very beautiful. Some are very colorful. Swans are very graceful. So I think it people are also fascinated by birds because of their beauty.

@@ -1,4 +1,4 @@
-## ENVVIRONMENTAL IMPACTS OF LOGGING
+## ENVIRONMENTAL IMPACTS OF LOGGING
 ### Words
 
 1. **Aquatic(adj):** living in the water.
