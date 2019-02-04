@@ -43,6 +43,8 @@
 
 ---
 
-*
+* In my city, there are a lot of different forms of entertainment. There are movies, theaters concerts, and nightclubs. It is a big city, so you can find almost anything to do that you want. I suppose a special forms of entertainment we have is the summer theater festival. During the summer, there are live theater performances in the park. Some of the shows are free, and others you have to buy tickets for. When festival time **comes around**, almost everybody goes to at least one of the performances. That is one kind of entertainment we have that is very popular; and everyone talks about it. During the winter holidays, we also have a series of concerts that a lot of people enjoy. Other than those special events, people in my city almost just enjoy the usual kinds of entertainment that people everywhere like.
+* I definitely prefer to see live entertainment. I really enjoy going to concerts, and nothing beats seeing a live concert performance. It really makes a difference to be in the same room with the musicians and to be able to watch them as they perform. It is a totally different experience from listening to record music. For music, seeing a live performance is really important. For other kinds of entertainment, it doest not matter to me as much. Going to a play in a theater or watching a movie on TV is all the same to me.
+* I like to play the guitar, but I do not think I can say that I am very talented at it. I wish I were, but I enjoy it anyway because I love music. I do not have any other performing arts talents. I have some artistic talents, though. I like to paint and draw, and I am trying to develop those talents more. I take arts classes occasionally. That is about all the talents I have.
 
 ---
