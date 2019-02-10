@@ -1,8 +1,10 @@
 ---
-title: "Neovim Configuration"
+title: "Neovim Configuration And VScode"
 categories: [Programming, Tools]
-excerpt: "Configure C++ for NEOVIM."
+excerpt: "Configure C++."
 ---
+
+# VIM
 
 1. Install NEOVIM
 2. Install [VimVundle](https://github.com/VundleVim/Vundle.vim)
@@ -74,5 +76,70 @@ nnoremap <silent> p :call ClipboardPaste()<cr>p
 
 autocmd BufEnter * lcd %:p:h
 let g:NERDTreeChDirMode = 2
+
+```
+# VSCODE
+
+```
+{
+
+
+"version": "2.0.0",
+
+"tasks": [
+
+{
+
+"label": "build",
+
+"type": "shell",
+
+"group": {
+
+"kind": "build",
+
+"isDefault": true
+
+},
+
+"presentation": {
+
+"echo": true,
+
+"reveal": "always",
+
+"focus": false,
+
+"panel": "shared"
+
+},
+
+"windows": {
+
+"command": "g++",
+
+"args": [
+
+"-ggdb",
+
+"\"${file}\"",
+
+"--std=c++11",
+
+"-o",
+
+"\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
+
+]
+
+}
+
+}
+
+]
+
+}
+
+
 
 ```

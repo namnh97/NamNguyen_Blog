@@ -5,9 +5,9 @@ main:
     url: /categories/english/
   - title: "Programming"
     url: /categories/programming/
-  - title: "Books"
-    url: /categories/books/
-  - title: "Softskills"
-    url: /categories/softskills/
+#  - title: "Books"
+#    url: /categories/books/
+#  - title: "Softskills"
+#    url: /categories/softskills/
   - title: "About"
     url: /about/
