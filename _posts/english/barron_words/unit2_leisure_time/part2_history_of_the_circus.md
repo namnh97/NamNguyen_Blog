@@ -1,6 +1,7 @@
 ## HISTORY OF THE CIRCUS
 
 ### WORDS
+
 1. **Ancient(adj):** very old, of the distant past. 
 2. **Band(n):** a small group.
 3. **Century(n):** a period of 100 years.

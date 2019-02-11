@@ -34,7 +34,7 @@ The chart shows a list of some of the species of birds that can be seen in woodc
 
 ---
 
-### READING
+### SPEAKING
 
 1. Many people enjoy observing birds because they find them fascinating. Why do you think people are fascinated by birds?
 2. Are you fascinated by birds? why or why not?

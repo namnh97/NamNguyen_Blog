@@ -1,5 +1,5 @@
 ## ENVIRONMENTAL IMPACTS OF LOGGING
-### Words
+### WORDS
 
 1. **Aquatic(adj):** living in the water.
 2. **Array(n):** a large number, a collection.
@@ -22,7 +22,7 @@
 19. **Vanish(v):** to disapper.
 20. **Vegetation(n):** plants.
 
-### Writing
+### WRITING
 
 1. Deforestation caused by human activity is happening in many parts of the world. With serious **results for** the environment. What do you think can be done to solve the problem?
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Speaking
+### SPEAKING
 
 1. What kind of natural environments do you enjoy spending time in?
 2. What do you think can be done to help solve the problems of environmental solution?
