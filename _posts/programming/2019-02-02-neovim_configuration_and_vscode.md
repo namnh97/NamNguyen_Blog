@@ -83,58 +83,55 @@ let g:NERDTreeChDirMode = 2
 ```
 {
 
+	"version": "2.0.0",
 
-"version": "2.0.0",
+	"tasks": [
+	{
 
-"tasks": [
+		"label": "build",
 
-{
+		"type": "shell",
 
-"label": "build",
+		"group": {
 
-"type": "shell",
+			"kind": "build",
 
-"group": {
+			"isDefault": true
+		},
 
-"kind": "build",
+		"presentation": {
 
-"isDefault": true
+			"echo": true,
 
-},
+			"reveal": "always",
 
-"presentation": {
+			"focus": false,
 
-"echo": true,
+			"panel": "shared"
 
-"reveal": "always",
+		},
 
-"focus": false,
+		"windows": {
 
-"panel": "shared"
+			"command": "g++",
 
-},
+			"args": [
 
-"windows": {
+				"-ggdb",
 
-"command": "g++",
+				"\"${file}\"",
 
-"args": [
+				"--std=c++11",
 
-"-ggdb",
+				"-o",
 
-"\"${file}\"",
+				"\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
 
-"--std=c++11",
+			]
 
-"-o",
+		}
 
-"\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
-
-]
-
-}
-
-}
+	}
 
 ]
 
