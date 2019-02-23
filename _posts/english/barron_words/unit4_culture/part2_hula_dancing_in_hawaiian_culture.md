@@ -1,7 +1,7 @@
 ## HULA DANCING IN HAWAIIAN CULTURE
 
 ### WORDS
-1. **Acompany(v):** to go with, happen at the same time.
+1. **Accompany(v):** to go with, happen at the same time.
 2. **Altar(n):** a table or similar structure for religious ceremonies.
 3. **Benefit(n):** the use, advantage of.
 4. **Celebration(n):** a social event to mark a special day.

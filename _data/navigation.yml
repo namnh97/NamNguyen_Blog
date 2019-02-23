@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /year-archive/
+  - title: "Stories"
+    url: /categories/stories/
   - title: "English"
     url: /categories/english/
   - title: "Programming"
