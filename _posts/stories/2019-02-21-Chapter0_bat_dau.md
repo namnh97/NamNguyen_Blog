@@ -7,7 +7,7 @@ excerpt: "Tại sao tôi lại muốn trở thành một Writer?"
   <img src="/assets/images/stories/chapter0/chapter0.jpg">
 </center>
 Thời gian trôi thật nhanh, tất cả chỉ vỏn vẹn là một cái chớp mắt.
-Giờ đây tôi đã là một chàng sinh viên năm 4. Đôi lúc ngẵm nghĩ lại có vẻ tôi đã trở thành một con người mà trước đây tôi chưa bao giờ nghỉ đến. Cuộc sống này thật phức tạp, khi bạn bước ra khỏi vòng tay của gia đình và va chạm với nó thì đến một lúc đó nào đó bạn còn chẳng nhận ra bản thân mình phải không? ^^
+Giờ đây tôi đã là một chàng sinh viên năm 4. Đôi lúc ngẵm nghĩ lại có vẻ tôi đã trở thành một con người mà trước đây tôi chưa bao giờ nghỉ đến. Cuộc sống này thật phức tạp, khi bạn bước ra khỏi vòng tay của gia đình và va chạm với nó thì đến một lúc đó nào đó bạn còn chẳng nhận ra bản thân mình phải không? ^^ </br>
 Cái tuổi 22 cái ranh giới thời sinh viên và sự trưởng thành, Nó đã làm con người tôi khác đi rất nhiều. Đôi khi nghĩ lại những khoảng thời gian đã qua, tôi lại luôn tự hỏi bản thân mình:
 
 * Ngày ấy tôi đã sống như thế nào? 
