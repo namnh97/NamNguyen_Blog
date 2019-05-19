@@ -18,8 +18,9 @@ toc: true
   * **Numeral**: one/two...
 
 # The most common adjectives used as describers and classifiers:
-| Size/Amount | Time | Colour | Evaluate | Scope | Topical |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+| Size/Amount | Time | Colour | Evaluate | Scope | Topical 
+| --- | --- | --- | --- | --- | --- | 
 | big <br> little <br> small <br> long <br> great <br> high <br> low <br> large | new <br> young <br> old | black <br> white <br> red <br> dark | good <br> best <br> right <br> nice <br> important <br> special | same <br> whole <br> different <br> full <br> general <br> major <br> final <br> main <br> single | political <br> public <br> social <br> human <br> internation <br> national <br> economic |
 
 # Trick 1: two statement in one
