@@ -2,6 +2,7 @@
 title: "Neovim Configuration And VScode"
 categories: [Programming, Tools]
 excerpt: "Configure C++."
+toc: true
 ---
 
 # VIM

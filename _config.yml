@@ -104,7 +104,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
-title: "My Learning"
+title: "I am Nam Nguyen ^^"
 # Site Author
 author:
   name: "Nam Nguyen"
@@ -184,6 +184,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+mathjax: true
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
