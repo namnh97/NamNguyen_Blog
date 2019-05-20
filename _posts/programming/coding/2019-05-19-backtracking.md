@@ -14,7 +14,7 @@ void try(int which, int what) {
         outputPermutation();
     } else { 
         for (int next = 0; next < N; next++) { 
-            if (!used[next]) { 
+        if (!used[next]) { 
                 try(which + 1, next);
             }
             used[what] = 0;

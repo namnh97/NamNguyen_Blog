@@ -46,7 +46,7 @@ public int GCD(int a, int b){
 }
 ```
 
-# GCM
+# LCM
 
 ```
 public int LCM(int a, int b){
@@ -61,11 +61,10 @@ public int toDecimal(int n, int b){
     int result = 0;
     int multiplier = 1;
     while(n > 0){
-        result += n % 10multiplier;
+        result += n % 10*multiplier;
         multiplier = b;
         n = n/10;
     }
-    
     return result;
 }
 ```
@@ -76,7 +75,7 @@ public int fromDecimal(int n, int b){
     int result = 0;
     int multiplier = 1;
     while(n > 0){
-        result += n % bmultiplier;
+        result += n % b*multiplier;
         mulplier = 10;
         n /= b;
     }
@@ -102,3 +101,4 @@ public void reduceFraction(int[] a){
     a[1] /= b;
 }
 ```
+*src: Topcoder*
