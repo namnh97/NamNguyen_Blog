@@ -212,6 +212,69 @@ He decided **not to go** to the party.
 * *Infinitives* often follow verbs that indicate that an action will or could happen.
 * The action expressed by the verb comes before the action expressed by the infinitive.
 
+
+## Verbs that are followed by **a noun phrase + infinitive** can also be followed by a **gerund**
+* advise.
+* allow.
+* encourage.
+* permit.
+* require. 
+* urge.
+## Some verbs can be followed by both gerund or infinitive with no change meaning.
+* begin.
+* hate.
+* like.
+* start.
+* love.
+* prefer.
+* continue.
+
+## difference in meaning.
+* remember.
+* forget.
+* regret.
+* stop.
+* try.
+* get.
+* used to + base form.
+* be used to / get used to + ving.
+
+## Infinitive forms are not used after the following verbs of perception.
+* feel.
+* see.
+* watch.
+* observe.
+* hear.
+* notice.
+* smell.
+* listen to.
+
+## A possessive noun or a possessive determiner is used. 
+* I really appreciate her writing that letter for me.
+* His coming late really annoys me.
+
+## When an infinitive functions as a **subject** or a **subject complement**, any stated subject of the infinitive should be preceded by **for**. *if a pronoun follows for, it must be in object form*. <br> When the *subject* of a gerund is stated, it takes the possessive form.
+* **For people** to see is a wonderful gift.
+* Her desire was **for them** to take a trip around the world.
+* They hoped **for her** to be able to attend the concert.
+
+## Infinitives can occur in the progressive but gerunds cannot.
+** To be doing**.
+It is used to indicate an activity in progress or ongoing.
+* She had hoped to be working.
+
+## abcxyz
+* Perfect infinitive: **to have moved**.
+* Perfect progressive infinitive: **to have been playing**.
+* Passive: **to be seen*.
+* Perfect passive: **to have been chosen**. 
+* Perfect gerund: **having moved**.
+* Passive gerund: **being done**.
+* Perfect passive gerund: **having been selected**.
+* A gerund can be used in the passive form: 
+  * I dislike **being told a lie**.
+* Do not used an infinitie after Have, Make, Let(causative verbs).
+* After causative verbs: **get, convince, persuade** use the infinitive..
 ## Participles.
 * Verbs that function as an adjective.
 Ex: 
