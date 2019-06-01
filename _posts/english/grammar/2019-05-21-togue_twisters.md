@@ -18,8 +18,7 @@ excerpt: "Đọc nhiều vào nha!"
 
 # 'f', 'v' and 'w' sounds: /f/ /v/ /w/
 
-* **F**e**w**er **v**ie**w**ers **f**
-* ail to **f**ind **w**a**v**ing **w**i**v**es **wh**ile **v**eiled **wh**ales **f**a**v**our **f**la**v**oursome **w**ines.
+* **F**e**w**er **v**ie**w**ers **f**ail to **f**ind **w**a**v**ing **w**i**v**es **wh**ile **v**eiled **wh**ales **f**a**v**our **f**la**v**oursome **w**ines.
 
 # 'l' and 'r' sounds: /l/ /r/
 
