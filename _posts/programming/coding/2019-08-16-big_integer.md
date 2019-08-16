@@ -1,4 +1,3 @@
-
 ---
 title: "Big Interger"
 categories: [Programming, Algorithm]
