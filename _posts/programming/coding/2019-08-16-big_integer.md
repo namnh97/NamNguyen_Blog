@@ -5,6 +5,7 @@ categories: [Programming, Algorithm]
 ---
 
 ```
+//https://vn.spoj.com/problems/CHUOIHAT/
 #include<bits/stdc++.h>
 #define ll long long 
 #define FOR(i, a, b) for (int i = (a), _##i = (b); i <= _##i; ++i)
@@ -88,3 +89,4 @@ int main(void){
 }
 
 ```
+*reference: happyboy99x*
