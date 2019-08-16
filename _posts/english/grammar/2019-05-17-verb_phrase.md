@@ -220,6 +220,7 @@ He decided **not to go** to the party.
 * permit.
 * require. 
 * urge.
+
 ## Some verbs can be followed by both gerund or infinitive with no change meaning.
 * begin.
 * hate.
