@@ -7,8 +7,8 @@ main:
     url: /categories/english/
   - title: "Programming"
     url: /categories/programming/
-  - title: "MachineLearning"
-    url: /categories/machinelearning/
+#  - title: "MachineLearning"
+#    url: /categories/machinelearning/
 #  - title: "Books"
 #    url: /categories/books/
 #  - title: "Softskills"

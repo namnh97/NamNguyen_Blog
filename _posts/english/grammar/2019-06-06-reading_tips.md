@@ -134,3 +134,8 @@ We are looking at conjunctions that show relationship of ideas within senteces. 
    * Italics.
    * Acronyms , such as 'USA' or 'Who'.
    * Words in inverted commas - such as 'this'.
+* Step 1: Identify a 'scanning word' in the question.
+* Step 2: Scan the text to find where that word appears.
+* Step 3: Read that section closely for the answer.
+
+# Tip 12: Synonyms & Paraphrasing.

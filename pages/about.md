@@ -5,16 +5,14 @@ author_profile: true
 header:
     image: /assets/images/picture1.jpg
 ---
-<center> <h1>The main purpose</h1> </center>
+<center> <h1>Dream bigger <br> Do Bigger. ^^</h1> </center>
 
 <p align="justify">
 Hi! I am Nam Nguyen. My major is <b>Computer Engineering</b> at
 <b>University of Information Technology</b>.
-I am not a writer or a expert.
-I know that I can not remember all of my learned knowledge.
-So I want to write this post in order to help me improve my
-writing skill and collecting the learned knowledge to be able to review in my future.
-I hope this blog can help me become a better person and learning more knowledge. ^^!
+I know that it would be impossible to remember all of the learned knowledge so I want to write this one in order to help me improve my
+writing skill and gain more knowledge.
+Hoping that It could help me get better in my future. @@!
 <br>
 </p>
 > The capacity to learn is a gift; <br>
